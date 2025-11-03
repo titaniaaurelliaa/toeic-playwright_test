@@ -1,0 +1,58 @@
+/* Custom CSS for Mahasiswa Dashboard */
+.card {
+    border-radius: 0.35rem;
+}
+
+.badge {
+    font-weight: 600;
+}
+
+.btn-sm {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.table-borderless td, .table-borderless th {
+    border: 0;
+}
+
+.bg-light {
+    background-color: #f8f9fc !important;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e3e6f0 !important;
+}
+
+/* Custom badge styles */
+.badge-success {
+    background-color: #1cc88a;
+    color: white;
+}
+
+.badge-warning {
+    background-color: #f6c23e;
+    color: white;
+}
+
+.badge-danger {
+    background-color: #e74a3b;
+    color: white;
+}
+
+/* Custom button styles */
+.btn-primary {
+    background-color: #224abe;
+    border-color: #224abe;
+}
+
+.btn-danger {
+    background-color: #e74a3b;
+    border-color: #e74a3b;
+}
+
+/* Card header styles */
+.card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+}
